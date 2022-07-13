@@ -65,6 +65,7 @@
     color: var(--medium-grey);
     margin: 20px;
     cursor: text;
+    transition: all 200ms ease;
 }
 
 .input:focus {
@@ -76,3 +77,70 @@ border: 2px solid var(--deep-grey);
     font-size: 0.7em;
     margin: 8px 10px;
 } 
+
+.login_icons {
+    display: flex;
+    gap: 10px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.login_icons img {
+    width: 20px;
+}
+
+.icons_button {
+    width: 33.33%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 35px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+}
+
+.login_icons .icons_button:nth-child(1) {
+    background-color: var(--blue);
+}
+
+.login_icons .icons_button:nth-child(2) {
+    background-color: var(--light-grey);
+}
+
+.login_icons .icons_button:nth-child(3) {
+    background-color: var(--black);
+}
+
+.login_label_checkbox {
+    width: 100%;
+    margin: 15px 0 50px;
+    font-size: 0.9em;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+}
+
+.input_checkbox {
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    background-color: var(--light-grey);
+    margin-right: 8px;
+    border-radius: 3px;
+}
+
+.input_checkbox:checked {
+    background-color: var(--red);
+}
+
+.input_checkbox:checked::after {
+    content: "";
+    display: block;
+    width: 5px;
+    height: 10px;
+    border: 3px solid white;
+    border-width: 0 3px 3px 0;
+    transform: rotate(45deg);
+    margin: 2px 6px;
+}
