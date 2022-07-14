@@ -22,10 +22,20 @@
 .login {
     display: flex;
     flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
     width: 100%;
     max-width: 500px;
     min-height: 100vh;
     padding: clamp(35px, 8%, 70px);
+}
+
+.wrapper {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 .login_logo {
@@ -105,11 +115,11 @@ border: 2px solid var(--deep-grey);
 }
 
 .login_icons .icons_button:nth-child(2) {
-    background-color: var(--light-grey);
+    background-color: var(--black);
 }
 
 .login_icons .icons_button:nth-child(3) {
-    background-color: var(--black);
+    background-color: var(--light-grey);
 }
 
 .login_label_checkbox {
@@ -143,4 +153,43 @@ border: 2px solid var(--deep-grey);
     border-width: 0 3px 3px 0;
     transform: rotate(45deg);
     margin: 2px 6px;
+}
+
+.login_button {
+    width: 60px;
+    height: 60px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--red);
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 60px;
+}
+
+.login_button svg {
+    fill: white;
+}
+
+.login_link {
+    font-size: 0.8em;
+    text-decoration: none;
+    color: var(--medium-grey);
+    text-transform: uppercase;
+    margin-bottom: 5px;
+    font-weight: 800;
+}
+
+.wallpaper {
+    width: 100%;
+    background-image: url('./images/wallpaper.jpg');
+    background-size: cover;
+    background-position: center;
+    flex: 1;
+}
+
+main {
+    display: flex;
 }
