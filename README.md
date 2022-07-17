@@ -1,7 +1,7 @@
 <h1>Clone da tela de login do jogo LOL</h1>
 
 <div align="center">
-Veja o resultado final do projeto abaixo. O objetivo foi clonar a tão famosa tela de login o LOLzinho, alinhando as coisas coisas que eu mais gosto de fazer, programar e jogos! O objetivo principal do projeto foi desenvolver a capacidade de desenvolvimento web, voltado principalmente para o front-end.
+Veja o resultado final do projeto abaixo. O objetivo foi clonar a tão famosa tela de login o LOLzinho, alinhando as coisas que eu mais gosto de fazer, programar e jogos! O objetivo principal do projeto foi desenvolver a capacidade de desenvolvimento web, voltado principalmente para o front-end.
 </div>
 
 ###
@@ -22,7 +22,7 @@ Veja o resultado final do projeto abaixo. O objetivo foi clonar a tão famosa te
 ###
 
 <div align="center">
-  <p>Obrigado! dê uma olhadinha nos outros projetos também, tem vários!</p>
+  <p>Eu e o doguinho agradecemos o seu tempo, fique avontade para dar uma olhadinha nos outros projetos do meu GitHub também, lá você encontra diversas paginas web, sistemas web com back-end em Java e PHP e até aplicativos mobile.</p>
   <img height="200" src="https://media3.giphy.com/media/uWlpPGquhGZNFzY90z/giphy.gif"  />
 </div>
 
