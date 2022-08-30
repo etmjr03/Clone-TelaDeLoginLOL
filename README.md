@@ -1,4 +1,4 @@
-<h1>Clone da tela de login do jogo LOL</h1>
+<h1>Tela de login League of Legends</h1>
 
 <div align="center">
 Veja o resultado final do projeto abaixo. O objetivo foi clonar a tão famosa tela de login o LOLzinho, alinhando as coisas que eu mais gosto de fazer, programar e jogos! O objetivo principal do projeto foi desenvolver a capacidade de desenvolvimento web, voltado principalmente para o front-end.
