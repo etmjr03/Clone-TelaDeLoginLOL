@@ -14,6 +14,10 @@ Veja o resultado final do projeto abaixo. O objetivo foi clonar a tão famosa te
 </div>
 
 ###
+<div align="left">
+  <h2>Resultado final do projeto</h2>
+</div>
+
 
 <div align="center">
   <img alt="Resultado Final" src="./images/tela-de-login-lol.png" width="100%">
