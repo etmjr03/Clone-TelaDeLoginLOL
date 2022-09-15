@@ -7,6 +7,12 @@ Veja o resultado final do projeto abaixo. O objetivo foi clonar a tão famosa te
 ###
 
 <div align="left">
+Veja em qualquer dispositivo o resultado final acessando o seguinte link: https://etmjr03.github.io/Clone-TelaDeLoginLOL/
+</div>
+
+###
+
+<div align="left">
   <h3>Linguagens utilizadas JS, HTML e CSS</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
@@ -28,12 +34,6 @@ Veja o resultado final do projeto abaixo. O objetivo foi clonar a tão famosa te
 <div align="center">
   <p>Eu e o doguinho agradecemos o seu tempo, fique avontade para dar uma olhadinha nos outros projetos do meu GitHub também, lá você encontra diversas paginas web, sistemas web com back-end em Java e PHP e até aplicativos mobile.</p>
   <img height="200" src="https://media3.giphy.com/media/uWlpPGquhGZNFzY90z/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
-Veja em qualquer dispositivo o resultado final acessando o seguinte link: https://etmjr03.github.io/Clone-TelaDeLoginLOL/
 </div>
 
 ###
